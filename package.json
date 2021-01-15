@@ -1,0 +1,26 @@
+{
+  "name": "bn-node-express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "engines":{"node":"15.x"},
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nrajubn/bn-node-express.git"
+  },
+  "author": "Raju",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nrajubn/bn-node-express/issues"
+  },
+  "homepage": "https://github.com/nrajubn/bn-node-express#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+
+}
